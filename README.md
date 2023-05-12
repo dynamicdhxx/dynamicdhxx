@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Dhruv Bharuka, a machine learning enthusiast and content writer from India. <br>
+I am a freshman at IIITL. <br>
+I enjoy learning new tech and exploring the world of AI. <br>
+Aspire to contribute in open source machine learning algorithms.
+
 
 ---
 
@@ -15,4 +20,7 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-dynamicdhxx&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
