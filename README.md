@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Dhruv Bharuka, a machine learning enthusiast and content writer from India. <br>
-I am a freshman at IIITL. <br>
+I am a senior at IIITL. <br>
 I enjoy learning new tech and exploring the world of AI. <br>
-Aspire to contribute in open source machine learning algorithms.
+
 
 
 ---
